@@ -1,0 +1,14 @@
+@charset "utf-8";
+.element-selector p{
+    background-color: yellow;
+}
+.class-selector-brief{
+    background-color: skyblue;
+}
+.blue{
+    color: blue;
+}
+a{
+    background-color: lime;
+    display: block;
+}
