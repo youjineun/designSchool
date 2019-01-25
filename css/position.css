@@ -1,0 +1,39 @@
+@charset "utf-8";
+
+h1{
+  background: pink;
+  box-shadow: 5px 5px 0 0 black;
+}
+.shadow{
+  background: black;
+}
+h2{
+  position: relative;
+  background: yellow;
+  top: -5px;
+  left: -5px;
+}
+.parent{
+  position: relative;
+  background: orange;
+  height: 300px;
+  width: 500px;
+  border: 1px solid black;
+}
+h3{
+  background: lime;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  width: 200px;
+  height: 150px;
+}
+h4{
+  background: aqua;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+}
