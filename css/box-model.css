@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+.box1{
+  background: yellow;
+  width: 500px;
+  height: 100px;
+  border: 10px solid black;
+  padding: 20px;
+  margin: 50px auto;
+}
+.box2{
+  box-sizing: border-box;
+  background: pink;
+  width: 500px;
+  height: 100px;
+  border: 10px solid black;
+  padding: 20px;
+  margin: 70px auto;
+}
